@@ -1,6 +1,6 @@
 # Vivita Assistant Chatbot
 
-Vivita Assistant là chatbot tư vấn sản phẩm cho khách hàng của Vivita, sử dụng AI để trả lời các câu hỏi về sản phẩm và dịch vụ dựa trên dữ liệu thực tế từ website vivita.vn.
+Vivita Assistant là chatbot tư vấn sản phẩm cho khách hàng, sử dụng AI để trả lời các câu hỏi về sản phẩm và dịch vụ dựa trên dữ liệu thực tế.
 
 ## Tính năng
 
@@ -83,5 +83,5 @@ npm start
 
 ## Đóng góp & bản quyền
 
-- Dự án phục vụ mục đích demo, nghiên cứu nội bộ Vivita.
+- Dự án phục vụ mục đích demo.
 - Mọi đóng góp, phản hồi xin gửi về đội ngũ phát triển.
