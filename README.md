@@ -42,16 +42,17 @@ Vivita Assistant là chatbot tư vấn sản phẩm cho khách hàng của Vivit
    ```
 
    (Thay `YOUR_GOOGLE_GENAI_API_KEY` bằng API key thực tế)
+   
    ** Chạy trên terminal**
    `` echo "YOUR_GOOGLE_GENAI_API_KEY`nREDIS_URL=redis://redis:6379/0" | Out-File -FilePath .env -Encoding utf8 ``
 
-2. **Build & chạy toàn bộ hệ thống:**
+3. **Build & chạy toàn bộ hệ thống:**
 
    ```bash
    docker-compose up --build
    ```
 
-3. **Truy cập:**
+4. **Truy cập:**
    - Frontend: [http://localhost:3000](http://localhost:3000)
    - Backend API: [http://localhost:8001](http://localhost:8001)
    - Xem log: [http://localhost:9999](http://localhost:9999)
