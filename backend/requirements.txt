@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-core
+googlesearch-python
+langchain-redis
+redis
+asyncio
+aiohttp
+beautifulsoup4
+fastapi
+uvicorn
+langchain-google-genai 
